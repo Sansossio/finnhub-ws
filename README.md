@@ -5,8 +5,7 @@
 FINNHUB_TOKEN=
 ```
 
-## Run project
-
+## Run project
 ### VsCode
 Create .env file with FINNHUB_TOKEN at the root of the project and press F5 to run the project.
 
